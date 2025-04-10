@@ -36,7 +36,7 @@ The below steps will help you to configure your Git for the first time. _This is
     ```
     Example:
     ```
-    git config --global user.email "kamlesh.rao@gyansys.com"
+    git config --global user.email "kamlesh.rao@company.com"
     ```
 
 ## Verify Git Configuration
